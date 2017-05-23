@@ -1,8 +1,3 @@
-<%-- 
-    Document   : Register
-    Created on : 23/05/2017, 4:12:13 PM
-    Author     : hyperfany
---%>
 <%@ page import="java.util.*" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
